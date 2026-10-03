@@ -1,6 +1,6 @@
 # Desafios Java — Listas e Coleções
 
-Repositório dedicado aos desafios práticos do curso **Java: trabalhando com listas e coleções de dados**, da Alura.
+Repositório dedicado aos desafios práticos do curso **Java: trabalhando com listas e coleções de dados.**
 
 ## Objetivo
 
